@@ -2,7 +2,7 @@
 set -e
 
 # 👇 How many parallel miners to run
-MINER_COUNT=16
+MINER_COUNT=15
 
 # 👇 Your mining public key
 PUBKEY="2jcgp9Av69R6ndKZqFKLGyY4HFtaWjyzMsXJb6M5LYNYjVUUxMH3PoZcrB2wbLVxQY5h5BGbYzebmghxvrkzjJpp45LXpetwV6KpDK4qkCi8ANQzPPbZDQt2UMtbQRyYd6Q9"
